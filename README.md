@@ -15,4 +15,6 @@ March 1, 2021 version (accessed Mar 10, 2021),
 March 15, 2021 version (access Mar 19, 2021),
 March 20, 2021 version (accessed Mar 23, 20201),
 March 27, 2021 version (accessed Mar 30, 2021),
-April 6, 2021 version (accessed April 7, 2021)
+April 6, 2021 version (accessed Apr 7, 2021)
+July 9, 2021 version (accessed Aug 1, 2021)
+September 26, 2021 version (accessed Oct 23, 2021)
